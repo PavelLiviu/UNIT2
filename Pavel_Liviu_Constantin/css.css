@@ -1,0 +1,30 @@
+div {
+  outline: #a36339 solid 2px;
+  background-color: #e8ded8;
+}
+h3 {
+  color: #6b402d;
+  text-decoration: underline;
+}
+#titlu {
+  color: #a12d0b;
+  font-style: italic;
+  outline: #000000 solid 4px;
+  background-color: #947575;
+}
+#email {
+  color: #b3a33e;
+  text-align: right;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+td, th {
+  border: 2px solid #fa1505;
+  text-align: center;
+  padding: 8px;
+}
